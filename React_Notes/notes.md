@@ -94,3 +94,5 @@ vite (ligthing fast, less configuration) -->
 \*> Empty Fragmrnt (<>...</>) : A shorthand syntac for React.Fragment that does the same thing - groups elements without extra DOM nodes - but doesn't support the key prop.
 
 Note :- We can not write id and clasName attrubut in both fragment.
+
+<!-- !compoent composition -->

@@ -5,12 +5,14 @@
 
 // fbc - a normal plain  javascript function which which returns some piece of jsx is known as function based components.
 
-import Card from "./Topic-1/Card";
+// import Card from "./Topic-1/Card";
+
+import Parent from "./Topic-2 Props/Parent";
 const App = ()=>{
 
-    return <>
-     <Card/>
-    </>
+    return <div className="App-Parent">
+     <Parent/>
+    </div>
      
 }
 
